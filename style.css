@@ -1,0 +1,35 @@
+html{
+    background-color: rgb(248, 226, 185);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#boss{
+    margin: 0px;
+    text-align: center;
+       background-color: orange;
+       border: 0.5px solid black;
+       padding: 20px;
+}
+
+#rama{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: black;
+        font-family: "Jaini Purva", system-ui;
+        font-weight: 400;
+        font-style: normal;
+      
+      
+
+    text-align: center;
+}
+
+#prabhu{
+    border: 20px solid black;
+}
